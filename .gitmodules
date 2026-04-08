@@ -1,0 +1,30 @@
+[submodule "cpp00"]
+	path = cpp00
+	url = https://github.com/Duarte42/cpp00
+[submodule "cpp01"]
+	path = cpp01
+	url = https://github.com/Duarte42/cpp01
+[submodule "cpp02"]
+	path = cpp02
+	url = https://github.com/Duarte42/cpp02
+[submodule "cpp03"]
+	path = cpp03
+	url = https://github.com/Duarte42/cpp03
+[submodule "cpp04"]
+	path = cpp04
+	url = https://github.com/Duarte42/cpp04
+[submodule "cpp05"]
+	path = cpp05
+	url = https://github.com/Duarte42/cpp05
+[submodule "cpp06"]
+	path = cpp06
+	url = https://github.com/Duarte42/cpp06
+[submodule "cpp07"]
+	path = cpp07
+	url = https://github.com/Duarte42/cpp07
+[submodule "cpp08"]
+	path = cpp08
+	url = https://github.com/Duarte42/cpp08
+[submodule "cpp09"]
+	path = cpp09
+	url = https://github.com/Duarte42/cpp09
